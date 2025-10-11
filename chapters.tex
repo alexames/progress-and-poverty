@@ -1,0 +1,9 @@
+\usepackage{titlesec}
+
+% Add vertical space before chapter titles
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\centering} % format
+  {\thechapter}                         % label
+  {1em}                                 % label separation
+  {}                                    % before-code
+\titlespacing*{\chapter}{0pt}{0.33\textheight}{40pt}

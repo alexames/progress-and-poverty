@@ -1,0 +1,42 @@
+from: markdown
+to: pdf
+output-file: "Progress and Poverty.pdf"
+pdf-engine: xelatex          # or lualatex
+input-files:
+  - NewPage.md
+  - IntroductoryEpigraph.md
+  - NewPage.md
+  - Introductory.md
+  - NewPage.md
+  - Book1.md
+  - NewPage.md
+  - Chapter1.md
+  - NewPage.md
+  - Chapter2.md
+  - NewPage.md
+  - Chapter3.md
+  - NewPage.md
+toc: true
+number-sections: false
+metadata:
+  title: "Progress and Poverty"
+  author: "Henry George"
+include-in-header:
+  - chapters.tex
+  - epigraph.tex
+  - headings.tex
+  - quotes.tex
+variables:
+  documentclass: book
+  geometry:
+    - paperwidth=5.5in
+    - paperheight=8.5in
+    - inner=1.0in
+    - outer=0.5in
+    - twoside
+  linestretch: 1
+  colorlinks: true
+  indent: true
+  fontsize: 12
+resource-path:
+  - .

@@ -1,0 +1,10 @@
+\usepackage{etoolbox}
+\usepackage{changepage}
+\AtBeginEnvironment{quote}{
+  \begin{adjustwidth}{2em}{2em}
+  \itshape
+  \small
+}
+\AtEndEnvironment{quote}{
+  \end{adjustwidth}
+}
