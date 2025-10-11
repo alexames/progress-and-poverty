@@ -1,12 +1,12 @@
-# INTRODUCTORY
+# INTRODUCTORY {#Introductory}
 
 ## THE PROBLEM
 
-The present century has been marked by a prodigious increase in
-wealth-producing power. The utilization of steam and electricity, the
-introduction of improved processes and labor-saving machinery, the greater
-subdivision and grander scale of production, the wonderful facilitation of
-exchanges, have multiplied enormously the effectiveness of labor.
+The present century has been marked by a prodigious increase in wealth-producing
+power. The utilization of steam and electricity, the introduction of improved
+processes and labor-saving machinery, the greater subdivision and grander scale
+of production, the wonderful facilitation of exchanges, have multiplied
+enormously the effectiveness of labor.
 
 At the beginning of this marvelous era it was natural to expect, and it was
 expected, that labor-saving inventions would lighten the toil and improve the
@@ -16,23 +16,22 @@ century—a Franklin or a Priestley—have seen, in a vision of the future, the
 steamship taking the place of the sailing vessel, the railroad train of the
 wagon, the reaping machine of the scythe, the threshing machine of the flail;
 could he have heard the throb of the engines that in obedience to human will,
-and for the satisfaction of human desire, exert a power greater than that of
-all the men and all the beasts of burden of the earth combined; could he have
-seen the forest tree transformed into finished lumber—into doors, sashes,
-blinds, boxes or barrels, with hardly the touch of a human hand; the great
-workshops where boots and shoes are turned out by the case with less labor than
-the old-fashioned cobbler could have put on a sole; the factories where, under
-the eye of a girl, cotton becomes cloth faster than hundreds of stalwart
-weavers could have turned it out with their hand looms; could he have seen
-steam hammers shaping mammoth shafts and mighty anchors, and delicate machinery
-making tiny watches; the diamond drill cutting through the heart of the rocks,
-and coal oil sparing the whale; could he have realized the enormous saving of
-labor resulting from improved facilities of exchange and communication—sheep
-killed in Australia eaten fresh in England, and the order given by the London
-banker in the afternoon executed in San Francisco in the morning of the same
-day; could he have conceived of the hundred thousand improvements which these
-only suggest, what would he have inferred as to the social condition of
-mankind?
+and for the satisfaction of human desire, exert a power greater than that of all
+the men and all the beasts of burden of the earth combined; could he have seen
+the forest tree transformed into finished lumber—into doors, sashes, blinds,
+boxes or barrels, with hardly the touch of a human hand; the great workshops
+where boots and shoes are turned out by the case with less labor than the
+old-fashioned cobbler could have put on a sole; the factories where, under the
+eye of a girl, cotton becomes cloth faster than hundreds of stalwart weavers
+could have turned it out with their hand looms; could he have seen steam hammers
+shaping mammoth shafts and mighty anchors, and delicate machinery making tiny
+watches; the diamond drill cutting through the heart of the rocks, and coal oil
+sparing the whale; could he have realized the enormous saving of labor resulting
+from improved facilities of exchange and communication—sheep killed in Australia
+eaten fresh in England, and the order given by the London banker in the
+afternoon executed in San Francisco in the morning of the same day; could he
+have conceived of the hundred thousand improvements which these only suggest,
+what would he have inferred as to the social condition of mankind?
 
 It would not have seemed like an inference; further than the vision went it
 would have seemed as though he saw; and his heart would have leaped and his
@@ -43,8 +42,8 @@ these new forces elevating society from its very foundations, lifting the very
 poorest above the possibility of want, exempting the very lowest from anxiety
 for the material needs of life; he would have seen these slaves of the lamp of
 knowledge taking on themselves the traditional curse, these muscles of iron and
-sinews of steel making the poorest laborer's life a holiday, in which every
-high quality and noble impulse could have scope to grow.
+sinews of steel making the poorest laborer's life a holiday, in which every high
+quality and noble impulse could have scope to grow.
 
 And out of these bounteous material conditions he would have seen arising, as
 necessary sequences, moral conditions realizing the golden age of which mankind
@@ -56,20 +55,20 @@ How could the vice, the crime, the ignorance, the brutality, that spring from
 poverty and the fear of poverty, exist where poverty had vanished? Who should
 crouch where all were freemen; who oppress where all were peers?
 
-More or less vague or clear, these have been the hopes, these the dreams born
-of the improvements which give this wonderful century its preeminence. They
-have sunk so deeply into the popular mind as radically to change the currents
-of thought, to recast creeds and displace the most fundamental conceptions. The
+More or less vague or clear, these have been the hopes, these the dreams born of
+the improvements which give this wonderful century its preeminence. They have
+sunk so deeply into the popular mind as radically to change the currents of
+thought, to recast creeds and displace the most fundamental conceptions. The
 haunting visions of higher possibilities have not merely gathered splendor and
 vividness, but their direction has changed —instead of seeing behind the faint
-tinges of an expiring sunset, all the glory of the daybreak has decked the
-skies before.
+tinges of an expiring sunset, all the glory of the daybreak has decked the skies
+before.
 
 It is true that disappointment has followed disappointment, and that discovery
-upon discovery, and invention after invention, have neither lessened the toil
-of those who most need respite, nor brought plenty to the poor. But there have
-been so many things to which it seemed this failure could be laid, that up to
-our time the new faith has hardly weakened. We have better appreciated the
+upon discovery, and invention after invention, have neither lessened the toil of
+those who most need respite, nor brought plenty to the poor. But there have been
+so many things to which it seemed this failure could be laid, that up to our
+time the new faith has hardly weakened. We have better appreciated the
 difficulties to be overcome; but not the less trusted that the tendency of the
 times was to overcome them.
 
@@ -123,15 +122,14 @@ communities are striving for, and advances in the scale of material
 progress—just as closer settlement and a more intimate connection with the rest
 of the world, and greater utilization of labor-saving machinery, make possible
 greater economies in production and exchange, and wealth in consequence
-increases, not merely in the aggregate, but in proportion to population —so
-does poverty take a darker aspect. Some get an infinitely better and easier
-living, but others find it hard to get a living at all. The "tramp" comes with
-the locomotive, and almshouses and prisons are as surely the marks of "material
+increases, not merely in the aggregate, but in proportion to population —so does
+poverty take a darker aspect. Some get an infinitely better and easier living,
+but others find it hard to get a living at all. The "tramp" comes with the
+locomotive, and almshouses and prisons are as surely the marks of "material
 progress" as are costly dwellings, rich warehouses, and magnificent churches.
-Upon streets lighted with gas and patrolled by uniformed policemen, beggars
-wait for the passer-by, and in the shadow of college, and library, and museum,
-are gathering the more hideous Huns and fiercer Vandals of whom Macaulay
-prophesied.
+Upon streets lighted with gas and patrolled by uniformed policemen, beggars wait
+for the passer-by, and in the shadow of college, and library, and museum, are
+gathering the more hideous Huns and fiercer Vandals of whom Macaulay prophesied.
 
 This fact—the great fact that poverty and all its concomitants show themselves
 in communities just as they develop into the conditions toward which material
@@ -157,7 +155,7 @@ apples of Sodom that crumble at the touch.
 
 It is true that wealth has been greatly increased, and that the average of
 comfort, leisure, and refinement has been raised; but these gains are not
-general. In them the lowest class do not share.* I do not mean that the
+general. In them the lowest class do not share.[^in1] I do not mean that the
 condition of the lowest class has nowhere nor in anything been improved; but
 that there is nowhere any improvement which can be credited to increased
 productive power. I mean that the tendency of what we call material progress is
@@ -170,7 +168,8 @@ bottom. It is as though an immense wedge were being forced, not underneath
 society, but through society. Those who are above the point of separation are
 elevated, but those who are below are crushed down.
 
-  * It is true that the poorest may now in certain ways enjoy what the richest a
+[^in1]:
+    It is true that the poorest may now in certain ways enjoy what the richest a
     century ago could not have commanded, but this does not show improvement of
     condition so long as the ability to obtain the necessaries of life is not
     increased. The beggar in a great city may enjoy many things from which the
@@ -181,9 +180,9 @@ This depressing effect is not generally realized, for it is not apparent where
 there has long existed a class just able to live. Where the lowest class barely
 lives, as has been the case for a long time in many parts of Europe, it is
 impossible for it to get any lower, for the next lowest step is out of
-existence, and no tendency to further depression can readily show itself. But
-in the progress of new settlements to the conditions of older communities it
-may clearly be seen that material progress does not merely fail to relieve
+existence, and no tendency to further depression can readily show itself. But in
+the progress of new settlements to the conditions of older communities it may
+clearly be seen that material progress does not merely fail to relieve
 poverty—it actually produces it. In the United States it is clear that squalor
 and misery, and the vices and crimes that spring from them, everywhere increase
 as the village grows to the city, and the march of development brings the
@@ -191,9 +190,9 @@ advantages of the improved methods of production and exchange.  It is in the
 older and richer sections of the Union that pauperism and distress among the
 working classes are becoming most painfully apparent. If there is less deep
 poverty in San Francisco than in New York, is it not because San Francisco is
-yet behind New York in all that both cities are striving for? When San
-Francisco reaches the point where New York now is, who can doubt that there
-will also be ragged and barefooted children on her streets?
+yet behind New York in all that both cities are striving for? When San Francisco
+reaches the point where New York now is, who can doubt that there will also be
+ragged and barefooted children on her streets?
 
 This association of poverty with progress is the great enigma of our times. It
 is the central fact from which spring industrial, social, and political
@@ -202,14 +201,13 @@ philanthropy and education grapple in vain. From it come the clouds that
 overhang the future of the most progressive and self-reliant nations. It is the
 riddle which the Sphinx of Fate puts to our civilization, and which not to
 answer is to be destroyed. So long as all the increased wealth which modern
-progress brings goes but to build up great fortunes, to increase luxury and
-make sharper the contrast between the House of Have and the House of Want,
-progress is not real and cannot be permanent. The reaction must come. The tower
-leans from its foundations, and every new story but hastens the final
-catastrophe. To educate men who must be condemned to poverty, is but to make
-them restive; to base on a state of most glaring social inequality political
-institutions under which men are theoretically equal, is to stand a pyramid on
-its apex.
+progress brings goes but to build up great fortunes, to increase luxury and make
+sharper the contrast between the House of Have and the House of Want, progress
+is not real and cannot be permanent. The reaction must come. The tower leans
+from its foundations, and every new story but hastens the final catastrophe. To
+educate men who must be condemned to poverty, is but to make them restive; to
+base on a state of most glaring social inequality political institutions under
+which men are theoretically equal, is to stand a pyramid on its apex.
 
 All-important as this question is, pressing itself from every quarter painfully
 upon attention, it has not yet received a solution which accounts for all the
@@ -218,57 +216,57 @@ varying attempts to account for the prevailing depression. They exhibit not
 merely a divergence between vulgar notions and scientific theories, but also
 show that the concurrence which should exist between those who avow the same
 general theories breaks up upon practical questions into an anarchy of opinion.
-Upon high economic authority we have been told that the prevailing depression
-is due to over-consumption; upon equally high authority, that it is due to
+Upon high economic authority we have been told that the prevailing depression is
+due to over-consumption; upon equally high authority, that it is due to
 over-production; while the wastes of war, the extension of railroads, the
 attempts of workmen to keep up wages, the demonetization of silver, the issues
 of paper money, the increase of labor-saving machinery, the opening of shorter
 avenues to trade, etc., are separately pointed out as the cause, by writers of
 reputation.
 
-And while professors thus disagree, the ideas that there is a necessary
-conflict between capital and labor, that machinery is an evil, that competition
-must be restrained and interest abolished, that wealth may be created by the
-issue of money, that it is the duty of government to furnish capital or to
-furnish work, are rapidly making way among the great body of the people, who
-keenly feel a hurt and are sharply conscious of a wrong. Such ideas, which
-bring great masses of men, the repositories of ultimate political power, under
-the leadership of charlatans and demagogues, are fraught with danger; but they
-cannot be successfully combated until political economy shall give some answer
-to the great question which shall be consistent with all her teachings, and
-which shall commend itself to the perceptions of the great masses of men.
+And while professors thus disagree, the ideas that there is a necessary conflict
+between capital and labor, that machinery is an evil, that competition must be
+restrained and interest abolished, that wealth may be created by the issue of
+money, that it is the duty of government to furnish capital or to furnish work,
+are rapidly making way among the great body of the people, who keenly feel a
+hurt and are sharply conscious of a wrong. Such ideas, which bring great masses
+of men, the repositories of ultimate political power, under the leadership of
+charlatans and demagogues, are fraught with danger; but they cannot be
+successfully combated until political economy shall give some answer to the
+great question which shall be consistent with all her teachings, and which shall
+commend itself to the perceptions of the great masses of men.
 
 It must be within the province of political economy to give such an answer. For
-political economy is not a set of dogmas. It is the explanation of a certain
-set of facts. It is the science which, in the sequence of certain phenomena,
-seeks to trace mutual relations and to identify cause and effect, just as the
-physical sciences seek to do in other sets of phenomena. It lays its
-foundations upon firm ground. The premises from which it makes its deductions
-are truths which have the highest sanction; axioms which we all recognize; upon
-which we safely base the reasoning and actions of everyday life, and which may
-be reduced to the metaphysical expression of the physical law that motion seeks
-the line of least resistance—viz., that men seek to gratify their desires with
-the least exertion. Proceeding from a basis thus assured, its processes, which
-consist simply in identification and separation, have the same certainty.  In
-this sense it is as exact a science as geometry, which, from similar truths
-relative to space, obtains its conclusions by similar means, and its
-conclusions when valid should be as self-apparent. And although in the domain
-of political economy we cannot test our theories by artificially produced
-combinations or conditions, as may be done in some of the other sciences, yet
-we can apply tests no less conclusive, by comparing societies in which
-different conditions exist, or by, in imagination, separating, combining,
-adding or eliminating forces or factors of known direction.
+political economy is not a set of dogmas. It is the explanation of a certain set
+of facts. It is the science which, in the sequence of certain phenomena, seeks
+to trace mutual relations and to identify cause and effect, just as the physical
+sciences seek to do in other sets of phenomena. It lays its foundations upon
+firm ground. The premises from which it makes its deductions are truths which
+have the highest sanction; axioms which we all recognize; upon which we safely
+base the reasoning and actions of everyday life, and which may be reduced to the
+metaphysical expression of the physical law that motion seeks the line of least
+resistance—viz., that men seek to gratify their desires with the least exertion.
+Proceeding from a basis thus assured, its processes, which consist simply in
+identification and separation, have the same certainty.  In this sense it is as
+exact a science as geometry, which, from similar truths relative to space,
+obtains its conclusions by similar means, and its conclusions when valid should
+be as self-apparent. And although in the domain of political economy we cannot
+test our theories by artificially produced combinations or conditions, as may be
+done in some of the other sciences, yet we can apply tests no less conclusive,
+by comparing societies in which different conditions exist, or by, in
+imagination, separating, combining, adding or eliminating forces or factors of
+known direction.
 
-I propose in the following pages to attempt to solve by the methods of
-political economy the great problem I have outlined. I propose to seek the law
-which associates poverty with progress, and increases want with advancing
-wealth; and I believe that in the explanation of this paradox we shall find the
-explanation of those recurring seasons of industrial and commercial paralysis
-which, viewed independently of their relations to more general phenomena, seem
-so inexplicable. Properly commenced and carefully pursued, such an
-investigation must yield a conclusion that will stand every test, and as truth,
-will correlate with all other truth. For in the sequence of phenomena there is
-no accident. Every effect has a cause, and every fact implies a preceding fact.
+I propose in the following pages to attempt to solve by the methods of political
+economy the great problem I have outlined. I propose to seek the law which
+associates poverty with progress, and increases want with advancing wealth; and
+I believe that in the explanation of this paradox we shall find the explanation
+of those recurring seasons of industrial and commercial paralysis which, viewed
+independently of their relations to more general phenomena, seem so
+inexplicable. Properly commenced and carefully pursued, such an investigation
+must yield a conclusion that will stand every test, and as truth, will correlate
+with all other truth. For in the sequence of phenomena there is no accident.
+Every effect has a cause, and every fact implies a preceding fact.
 
 That political economy, as at present taught, does not explain the persistence
 of poverty amid advancing wealth in a manner which accords with the deep-seated
@@ -284,8 +282,8 @@ when properly pursued, but to some false step in its premises, or overlooked
 factor in its estimates. And as such mistakes are generally concealed by the
 respect paid to authority, I propose in this inquiry to take nothing for
 granted, but to bring even accepted theories to the test of first principles,
-and should they not stand the test, freshly to interrogate facts in the
-endeavor to discover their law.
+and should they not stand the test, freshly to interrogate facts in the endeavor
+to discover their law.
 
 I propose to beg no question, to shrink from no conclusion, but to follow truth
 wherever it may lead. Upon us is the responsibility of seeking the law, for in
