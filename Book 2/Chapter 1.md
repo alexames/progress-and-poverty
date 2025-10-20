@@ -52,18 +52,19 @@ proving” the current theory of wages by advancing the current theory of the
 pressure of population upon subsistence. He says in his “History of Civilization
 in England,” Vol. 3, Chap. 5:
 
-“Scarcely had the Eighteenth Century passed away when it was decisively proved
-that the reward of labor depends solely on two things; namely, the magnitude of
-that national fund out of which all labor is paid, and the number of laborers
-among whom the fund is to be divided. This vast step in our knowledge is due,
-mainly, though not entirely, to Malthus, whose work on population, besides
-marking an epoch in the history of speculative thought, has already produced
-considerable practical results, and will probably give rise to others more
-considerable still. It was published in 1798; so that Adam Smith, who died in
-1790, missed what to him would have been the intense pleasure of seeing how, in
-it, his own views were expanded rather than corrected. Indeed, it is certain
-that without Smith there would have been no Malthus; that is, unless Smith had
-laid the foundation, Malthus could not have raised the superstructure.”
+> Scarcely had the Eighteenth Century passed away when it was decisively proved
+> that the reward of labor depends solely on two things; namely, the magnitude
+> of that national fund out of which all labor is paid, and the number of
+> laborers among whom the fund is to be divided. This vast step in our knowledge
+> is due, mainly, though not entirely, to Malthus, whose work on population,
+> besides marking an epoch in the history of speculative thought, has already
+> produced considerable practical results, and will probably give rise to others
+> more considerable still. It was published in 1798; so that Adam Smith, who
+> died in 1790, missed what to him would have been the intense pleasure of
+> seeing how, in it, his own views were expanded rather than corrected. Indeed,*
+> it is certain that without Smith there would have been no Malthus; that is,
+> unless Smith had laid the foundation, Malthus could not have raised the
+> superstructure.
 
 The famous doctrine which ever since its enunciation has so powerfully
 influenced thought, not alone in the province of political economy, but in
@@ -78,25 +79,26 @@ produces.” “The necessary effects of these two different rates of increase, 
 brought together,” Mr. Malthus naïvely goes on to say, “will be very striking.”
 And thus (Chap. I) he brings them together:
 
-“Let us call the population of this island eleven millions; and suppose the
-present produce equal to the easy support of such a number. In the first
-twenty-five years the population would be twenty-two millions, and the food
-being also doubled, the means of subsistence would be equal to this increase. In
-the next twenty-five years the population would be forty-four millions, and the
-means of subsistence only equal to the support of thirty-three millions. In the
-next period the population would be equal to eighty-eight millions, and the
-means of subsistence just equal to the support of half that number. And at the
-conclusion of the first century, the population would be a hundred and
-seventy-six millions, and the means of subsistence only equal to the support of
-fifty-five millions; leaving a population of a hundred and twenty-one millions
-totally unprovided for.
+> Let us call the population of this island eleven millions; and suppose the
+> present produce equal to the easy support of such a number. In the first
+> twenty-five years the population would be twenty-two millions, and the food
+> being also doubled, the means of subsistence would be equal to this increase.
+> In the next twenty-five years the population would be forty-four millions, and
+> the means of subsistence only equal to the support of thirty-three millions.
+> In the next period the population would be equal to eighty-eight millions, and
+> the means of subsistence just equal to the support of half that number. And at
+> the conclusion of the first century, the population would be a hundred and
+> seventy-six millions, and the means of subsistence only equal to the support
+> of fifty-five millions; leaving a population of a hundred and twenty-one
+> millions totally unprovided for.
 
-”Taking the whole earth instead of this island, emigration would of course be
-excluded; and supposing the present population equal to a thousand millions, the
-human species would increase as the numbers 1, 2, 4, 8, 16, 32, 64, 128, 256,
-and subsistence as 1, 2, 3, 4, 5, 6, 7, 8, 9. In two centuries the population
-would be to the means of subsistence as 256 to 9; in three centuries, 4,096 to
-13, and in two thousand years the difference would be almost incalculable.“
+> Taking the whole earth instead of this island, emigration would of course be
+> excluded; and supposing the present population equal to a thousand millions,
+> the  human species would increase as the numbers 1, 2, 4, 8, 16, 32, 64, 128,
+> 256, and subsistence as 1, 2, 3, 4, 5, 6, 7, 8, 9. In two centuries the
+> population would be to the means of subsistence as 256 to 9; in three
+> centuries, 4,096 to 13, and in two thousand years the difference would be
+> almost incalculable.
 
 Such a result is of course prevented by the physical fact that no more people
 can exist than can find subsistence, and hence Malthus’ conclusion is, that this

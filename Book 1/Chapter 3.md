@@ -34,10 +34,10 @@ current elaborate theories of the relation between wages and capital, recognized
 the fact that in such simple cases as I have instanced, wages are the produce of
 labor, and thus begins his chapter upon the wages of labor (Chap. VIII):
 
-”The produce of labor constitutes the natural recompense or wages of labor. In
-that original state of things which precedes both the appropriation of land and
-the accumulation of stock, the whole produce of labor belongs to the laborer. He
-has neither landlord nor master to share with him.“
+> The produce of labor constitutes the natural recompense or wages of labor. In
+> that original state of things which precedes both the appropriation of land
+> and the accumulation of stock, the whole produce of labor belongs to the
+> laborer. He has neither landlord nor master to share with him.
 
 Had the great Scotchman taken this as the initial point of his reasoning, and
 continued to regard the produce of labor as the natural wages of labor, and the

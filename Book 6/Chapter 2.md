@@ -60,5 +60,5 @@ aspirations of the human heart; that the progress of society might be, and, if
 it is to continue, must be, toward equality, not toward inequality; and that the
 economic harmonies prove the truth perceived by the Stoic Emperor—
 
-”We are made for co-operation—like feet, like hands, like eyelids, like the rows
-of the upper and lower teeth.“
+> We are made for co-operation—like feet, like hands, like eyelids, like the
+> rows of the upper and lower teeth.

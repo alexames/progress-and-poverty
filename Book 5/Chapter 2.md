@@ -237,19 +237,20 @@ monopolization of the land, the carrying of the speculative rent line beyond the
 normal rent line, produced tramps and paupers, just as like effects from like
 causes have lately been evident in the United States.
 
-“Land which went heretofore for twenty or forty pounds a year,” said Hugh
-Latimer, “now is let for fifty or a hundred. My father was a yeoman, and had no
-lands of his own; only he had a farm at a rent of three or four pounds by the
-year at the uttermost, and thereupon he tilled so much as kept half a dozen men.
-He had walk for a hundred sheep, and my mother milked thirty kine; he was able
-and did find the King a harness with himself and his horse when he came to the
-place that he should receive the King’s wages. I can remember that I buckled his
-harness when he went to Blackheath Field. He kept me to school; he married my
-sisters with five pounds apiece, so that he brought them up in godliness and
-fear of God. He kept hospitality for his neighbors and some alms he gave to the
-poor. And all this he did of the same farm, where he that now hath it payeth
-sixteen pounds rent or more by year, and is not able to do anything for his
-Prince, for himself, nor his children, nor to give a cup of drink to the poor.”
+> Land which went heretofore for twenty or forty pounds a year,” said Hugh
+> Latimer, “now is let for fifty or a hundred. My father was a yeoman, and had
+> no lands of his own; only he had a farm at a rent of three or four pounds by
+> the year at the uttermost, and thereupon he tilled so much as kept half a
+> dozen men.  He had walk for a hundred sheep, and my mother milked thirty kine;
+> he was able and did find the King a harness with himself and his horse when he
+> came to the place that he should receive the King’s wages. I can remember that
+> I buckled his harness when he went to Blackheath Field. He kept me to school;
+> he married my sisters with five pounds apiece, so that he brought them up in
+> godliness and fear of God. He kept hospitality for his neighbors and some alms
+> he gave to the poor. And all this he did of the same farm, where he that now
+> hath it payeth sixteen pounds rent or more by year, and is not able to do
+> anything for his Prince, for himself, nor his children, nor to give a cup of
+> drink to the poor.
 
 “In this way,” said Sir Thomas More, referring to the ejectment of small farmers
 which characterized this advance of rent, “it comes to pass that these poor
@@ -299,11 +300,11 @@ for almost anything—for natural opportunities are now no longer free to labor.
 The truth is self-evident. Put to any one capable of consecutive thought this
 question:
 
-“Suppose there should arise from the English Channel or the German Ocean a
-No-man’s land on which common labor to an unlimited amount should be able to
-make ten shillings a day and which should remain unappropriated and of free
-access, like the commons which once comprised so large a part of English soil.
-What would be the effect upon wages in England?”
+> Suppose there should arise from the English Channel or the German Ocean a
+> No-man’s land on which common labor to an unlimited amount should be able to
+> make ten shillings a day and which should remain unappropriated and of free
+> access, like the commons which once comprised so large a part of English soil.
+> What would be the effect upon wages in England?
 
 He would at once tell you that common wages throughout England must soon
 increase to ten shillings a day.
@@ -390,5 +391,6 @@ land and the power which its possession gives. Everywhere, in all times, among
 all peoples, the possession of land is the base of aristocracy, the foundation
 of great fortunes, the source of power. As said the Brahmins, ages ago—
 
-“To whomsoever the soil at any time belongs, to him belong the fruits of it.
-White parasols and elephants mad with pride are the flowers of a grant of land.”
+> To whomsoever the soil at any time belongs, to him belong the fruits of it.
+> White parasols and elephants mad with pride are the flowers of a grant of
+> land.

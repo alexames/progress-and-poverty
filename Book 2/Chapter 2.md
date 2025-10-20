@@ -300,55 +300,57 @@ upon subsistence that has produced the want, and the want the tyranny.∗ Says t
 Rev. William Tennant, a chaplain in the service of the East India Company,
 writing in 1796, two years before the publication of the “Essay on Population”:
 
-“When we reflect upon the great fertility of Hindostan, it is amazing to
-consider the frequency of famine. It is evidently not owing to any sterility of
-soil or climate; the evil must be traced to some political cause, and it
-requires but little penetration to discover it in the avarice and extortion of
-the various governments. The great spur to industry, that of security, is taken
-away. Hence no man raises more grain than is barely sufficient for himself, and
-the first unfavorable season produces a famine.
+> When we reflect upon the great fertility of Hindostan, it is amazing to
+> consider the frequency of famine. It is evidently not owing to any sterility
+> of soil or climate; the evil must be traced to some political cause, and it
+> requires but little penetration to discover it in the avarice and extortion of
+> the various governments. The great spur to industry, that of security, is
+> taken away. Hence no man raises more grain than is barely sufficient for
+> himself, and the first unfavorable season produces a famine.
 
-”The Mogul government at no period offered full security to the prince, still
-less to his vassals; and to peasants the most scanty protection of all. It was a
-continued tissue of violence and insurrection, treachery and punishment, under
-which neither commerce nor the arts could prosper, nor agriculture assume the
-appearance of a system. Its downfall gave rise to a state still more afflictive,
-since anarchy is worse than misrule. The Mohammedan government, wretched as it
-was, the European nations have not the merit of overturning. It fell beneath the
-weight of its own corruption, and had already been succeeded by the multifarious
-tyranny of petty chiefs, whose right to govern consisted in their treason to the
-state, and whose exactions on the peasants were as boundless as their avarice.
-The rents to government were, and, where natives rule, still are, levied twice a
-year by a merciless banditti, under the semblance of an army, who wantonly
-destroy or carry off whatever part of the produce may satisfy their caprice or
-satiate their avidity, after having hunted the ill-fated peasants from the
-villages to the woods. Any attempt of the peasants to defend their persons or
-property within the mud walls of their villages only calls for the more signal
-vengeance on those useful, but ill-fated mortals. They are then surrounded and
-attacked with musketry and field pieces till resistance ceases, when the
-survivors are sold, and their habitations burned and leveled with the ground.
-Hence you will frequently meet with the ryots gathering up the scattered
-remnants of what had yesterday been their habitation, if fear has permitted them
-to return; but oftener the ruins are seen smoking, after a second visitation of
-this kind, without the appearance of a human being to interrupt the awful
-silence of destruction. This description does not apply to the Mohammedan
-chieftains alone; it is equally applicable to the Rajahs in the districts
-governed by Hindoos.∗
+> The Mogul government at no period offered full security to the prince, still
+> less to his vassals; and to peasants the most scanty protection of all. It was
+> a continued tissue of violence and insurrection, treachery and punishment,
+> under which neither commerce nor the arts could prosper, nor agriculture
+> assume the appearance of a system. Its downfall gave rise to a state still
+> more afflictive, since anarchy is worse than misrule. The Mohammedan
+> government, wretched as it was, the European nations have not the merit of
+> overturning. It fell beneath the weight of its own corruption, and had already
+> been succeeded by the multifarious tyranny of petty chiefs, whose right to
+> govern consisted in their treason to the state, and whose exactions on the
+> peasants were as boundless as their avarice.  The rents to government were,
+> and, where natives rule, still are, levied twice a year by a merciless
+> banditti, under the semblance of an army, who wantonly destroy or carry off
+> whatever part of the produce may satisfy their caprice or satiate their
+> avidity, after having hunted the ill-fated peasants from the villages to the
+> woods. Any attempt of the peasants to defend their persons or property within
+> the mud walls of their villages only calls for the more signal vengeance on
+> those useful, but ill-fated mortals. They are then surrounded and attacked
+> with musketry and field pieces till resistance ceases, when the survivors are
+> sold, and their habitations burned and leveled with the ground.  Hence you
+> will frequently meet with the ryots gathering up the scattered remnants of
+> what had yesterday been their habitation, if fear has permitted them to
+> return; but oftener the ruins are seen smoking, after a second visitation of
+> this kind, without the appearance of a human being to interrupt the awful
+> silence of destruction. This description does not apply to the Mohammedan
+> chieftains alone; it is equally applicable to the Rajahs in the districts
+> governed by Hindoos.∗
 
 To this merciless rapacity, which would have produced want and famine were the
 population but one to a square mile and the land a Garden of Eden, succeeded, in
 the first era of British rule in India, as merciless a rapacity, backed by a far
 more irresistible power. Says Macaulay, in his essay on Lord Clive:
 
-”Enormous fortunes were rapidly accumulated at Calcutta, while millions of human
-beings were reduced to the extremity of wretchedness. They had been accustomed
-to live under tyranny, but never under tyranny like this. They found the little
-finger of the Company thicker than the loins of Surajah Dowlah舰. It resembled
-the government of evil genii, rather than the government of human tyrants.
-Sometimes they submitted in patient misery. Sometimes they fled from the white
-man as their fathers had been used to fly from the Maharatta, and the palanquin
-of the English traveler was often carried through silent villages and towns that
-the report of his approach had made desolate.“
+> Enormous fortunes were rapidly accumulated at Calcutta, while millions of
+> human beings were reduced to the extremity of wretchedness. They had been
+> accustomed to live under tyranny, but never under tyranny like this. They
+> found the little finger of the Company thicker than the loins of Surajah
+> Dowlah * * *. It resembled the government of evil genii, rather than the
+> government of human tyrants. Sometimes they submitted in patient misery.
+> Sometimes they fled from the white man as their fathers had been used to fly
+> from the Maharatta, and the palanquin of the English traveler was often
+> carried through silent villages and towns that the report of his approach had
+> made desolate.
 
 Upon horrors that Macaulay thus but touches, the vivid eloquence of Burke throws
 a stronger light—whole districts surrendered to the unrestrained cupidity of the
@@ -580,11 +582,11 @@ have never been fairly attributable to over-population.
 
 McCulloch, writing in 1838, says, in Note IV to “Wealth of Nations”:
 
-“The wonderful density of population in Ireland is the immediate cause of the
-abject poverty and depressed condition of the great bulk of the people. It is
-not too much to say that there are at present more than double the persons in
-Ireland it is, with its existing means of production, able either fully to
-employ or to maintain in a moderate state of comfort.”
+> The wonderful density of population in Ireland is the immediate cause of the
+> abject poverty and depressed condition of the great bulk of the people. It is
+> not too much to say that there are at present more than double the persons in
+> Ireland it is, with its existing means of production, able either fully to
+> employ or to maintain in a moderate state of comfort.
 
 As in 1841 the population of Ireland was given as 8,175,124, we may set it down
 in 1838 as about eight millions. Thus, to change McCulloch’s negative into an

@@ -315,13 +315,13 @@ settlement, though he failed to appreciate the importance and connection of the
 fact. In treating of the Causes of the Prosperity of New Colonies (Chap. VII,
 Book IV, “Wealth of Nations”) he says:
 
-“Every colonist gets more land than he can possibly cultivate. He has no rent
-and scarce any taxes to pay. B B He is eager, therefore, to collect laborers
-from every quarter and to pay them the most liberal wages. But these liberal
-wages, joined to the plenty and cheapness of land, soon make these laborers
-leave him in order to become landlords themselves, and to reward with equal
-liberality other laborers who soon leave them for the same reason they left
-their first masters.”
+> Every colonist gets more land than he can possibly cultivate. He has no rent
+> and scarce any taxes to pay. B B He is eager, therefore, to collect laborers
+> from every quarter and to pay them the most liberal wages. But these liberal
+> wages, joined to the plenty and cheapness of land, soon make these laborers
+> leave him in order to become landlords themselves, and to reward with equal
+> liberality other laborers who soon leave them for the same reason they left
+> their first masters.
 
 This chapter contains numerous expressions which, like the opening sentence in
 the chapter on The Wages of Labor, show that Adam Smith failed to appreciate the

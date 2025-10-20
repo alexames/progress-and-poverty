@@ -37,21 +37,21 @@ land—undoubtedly a careless concession which he upon reflection would
 reconsider) been indorsed by no less eminent a thinker than Herbert Spencer, who
 (”Social Statics,“ Chap. IX, Sec. 8) says of it:
 
-”Such a doctrine is consistent with the highest state of civilization; may be
-carried out without involving a community of goods, and need cause no very
-serious revolution in existing arrangements. The change required would simply be
-a change of landlords. Separate ownership would merge into the joint-stock
-ownership of the public. Instead of being in the possession of individuals, the
-country would be held by the great corporate body—society. Instead of leasing
-his acres from an isolated proprietor, the farmer would lease them from the
-nation. Instead of paying his rent to the agent of Sir John or his Grace, he
-would pay it to an agent or deputy agent of the community. Stewards would be
-public officials instead of private ones, and tenancy the only land tenure. A
-state of things so ordered would be in perfect harmony with the moral law. Under
-it all men would be equally landlords, all men would be alike free to become
-tenants. B B B Clearly, therefore, on such a system, the earth might be
-enclosed, occupied and cultivated, in entire subordination to the law of equal
-freedom.“
+> Such a doctrine is consistent with the highest state of civilization; may be
+> carried out without involving a community of goods, and need cause no very
+> serious revolution in existing arrangements. The change required would simply
+> be a change of landlords. Separate ownership would merge into the joint-stock
+> ownership of the public. Instead of being in the possession of individuals,
+> the country would be held by the great corporate body—society. Instead of
+> leasing his acres from an isolated proprietor, the farmer would lease them
+> from the nation. Instead of paying his rent to the agent of Sir John or his
+> Grace, he would pay it to an agent or deputy agent of the community. Stewards
+> would be public officials instead of private ones, and tenancy the only land
+> tenure. A state of things so ordered would be in perfect harmony with the
+> moral law. Under it all men would be equally landlords, all men would be alike
+> free to become tenants. B B B Clearly, therefore, on such a system, the earth
+> might be enclosed, occupied and cultivated, in entire subordination to the law
+> of equal freedom.
 
 But such a plan, though perfectly feasible, does not seem to me the best. Or
 rather I propose to accomplish the same thing in a simpler, easier, and quieter

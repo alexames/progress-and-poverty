@@ -279,10 +279,10 @@ has been said by the pure hearted and strong sighted, who, standing as it were,
 on the mountain tops of thought and looking over the shadowy ocean, have beheld
 the loom of land:
 
-“Men’s souls, encompassed here with bodies and passions, have no communication
-with God, except what they can reach to in conception only, by means of
-philosophy, as by a kind of an obscure dream. But when they are loosed from the
-body, and removed into the unseen, invisible, impassable, and pure region, this
-God is then their leader and king; they there, as it were, hanging on him
-wholly, and beholding without weariness and passionately affecting that beauty
-which cannot be expressed or uttered by men.”
+> Men’s souls, encompassed here with bodies and passions, have no communication
+> with God, except what they can reach to in conception only, by means of
+> philosophy, as by a kind of an obscure dream. But when they are loosed from
+> the body, and removed into the unseen, invisible, impassable, and pure region,
+> this God is then their leader and king; they there, as it were, hanging on him
+> wholly, and beholding without weariness and passionately affecting that beauty
+> which cannot be expressed or uttered by men.

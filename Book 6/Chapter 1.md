@@ -739,28 +739,28 @@ renting farmer is much more ground down by his landlord than the Irish tenant,
 yet “feelings hostile to social order,” M. de Laveleye goes on to say, “do not
 manifest themselves,” because—
 
-“The tenant, although ground down by the constant rise of rents, lives among his
-equals, peasants like himself who have tenants whom they use just as the large
-landholder does his. His father, his brother, perhaps the man himself, possesses
-something like an acre of land, which he lets at as high a rent as he can get.
-In the public house peasant proprietors will boast of the high rents they get
-for their lands, just as they might boast of having sold their pigs or potatoes
-very dear. Letting at as high a rent as possible comes thus to seem to him to be
-quite a matter of course, and he never dreams of finding fault with either the
-land owners as a class or with property in land. His mind is not likely to dwell
-on the notion of a caste of domineering landlords, of ’bloodthirsty tyrants,’
-fattening on the sweat of impoverished tenants and doing no work themselves; for
-those who drive the hardest bargains are not the great land owners but his own
-fellows. Thus, the distribution of a number of small properties among the
-peasantry forms a kind of rampart and safeguard for the holders of large
-estates, and peasant property may without exaggeration be called the lightning
-conductor that averts from society dangers which might otherwise lead to violent
-catastrophes.
+> The tenant, although ground down by the constant rise of rents, lives among
+> his equals, peasants like himself who have tenants whom they use just as the
+> large landholder does his. His father, his brother, perhaps the man himself,
+> possesses something like an acre of land, which he lets at as high a rent as
+> he can get.  In the public house peasant proprietors will boast of the high
+> rents they get for their lands, just as they might boast of having sold their
+> pigs or potatoes very dear. Letting at as high a rent as possible comes thus
+> to seem to him to be quite a matter of course, and he never dreams of finding
+> fault with either the land owners as a class or with property in land. His
+> mind is not likely to dwell on the notion of a caste of domineering landlords,
+> of ’bloodthirsty tyrants,’ fattening on the sweat of impoverished tenants and
+> doing no work themselves; for those who drive the hardest bargains are not the
+> great land owners but his own fellows. Thus, the distribution of a number of
+> small properties among the peasantry forms a kind of rampart and safeguard for
+> the holders of large estates, and peasant property may without exaggeration be
+> called the lightning conductor that averts from society dangers which might
+> otherwise lead to violent catastrophes.
 
-”The concentration of land in large estates among a small number of families is
-a sort of provocation of leveling legislation. The position of England, so
-enviable in many respects, seems to me to be in this respect full of danger for
-the future.“
+> The concentration of land in large estates among a small number of families is
+> a sort of provocation of leveling legislation. The position of England, so
+> enviable in many respects, seems to me to be in this respect full of danger
+> for the future.
 
 To me, for the very same reason that M. de Laveleye expresses, the position of
 England seems full of hope.

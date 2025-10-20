@@ -288,13 +288,13 @@ any classical writer for the barbarians, but that everywhere the barbarian
 endured the contact with the Roman and the Roman allied himself to the
 barbarian, he says (pp. 47-8):
 
-“Savages in the first year of the Christian era were pretty much what they were
-in the eighteen hundredth; and if they stood the contact of ancient civilized
-men and cannot stand ours, it follows that our race is presumably tougher than
-the ancient; for we have to bear, and do bear, the seeds of greater diseases
-than the ancients carried with them. We may use, perhaps, the unvarying savage
-as a meter to gauge the vigor of the constitution to whose contact he is
-exposed.”
+> Savages in the first year of the Christian era were pretty much what they were
+> in the eighteen hundredth; and if they stood the contact of ancient civilized
+> men and cannot stand ours, it follows that our race is presumably tougher than
+> the ancient; for we have to bear, and do bear, the seeds of greater diseases
+> than the ancients carried with them. We may use, perhaps, the unvarying savage
+> as a meter to gauge the vigor of the constitution to whose contact he is
+> exposed.
 
 Mr. Bagehot does not attempt to explain how it is that eighteen hundred years
 ago civilization did not give the like relative advantage over barbarism that it
