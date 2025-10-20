@@ -361,9 +361,9 @@ legal power to expel the whole population from five-sixths of the British
 Islands, and the vast majority of the British people have no right whatever to
 their native land save to walk the streets or trudge the roads. To them may be
 fittingly applied the words of a Tribune of the Roman People: ”Men of Rome,“
-said Tiberius Gracchus—”men of Rome, you are called the lords of the world, yet
+said Tiberius Gracchus—”*men of Rome, you are called the lords of the world, yet
 have no right to a square foot of its soil! The wild beasts have their dens, but
-the soldiers of Italy have only water and air!“
+the soldiers of Italy have only water and air!*“
 
 The result has, perhaps, been more marked in England than anywhere else, but the
 tendency is observable everywhere, having gone further in England owing to

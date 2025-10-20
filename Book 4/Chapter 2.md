@@ -1,4 +1,7 @@
-Chapter II The Effect of Increase of Population Upon the Distribution of Wealth
+# Chapter II
+
+## The Effect of Increase of Population Upon the Distribution of Wealth
+
 The manner in which increasing population advances rent, as explained and
 illustrated in current treatises, is that the increased demand for subsistence
 forces production to inferior soil or to inferior productive points. Thus, if,

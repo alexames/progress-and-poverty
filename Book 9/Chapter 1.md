@@ -3,7 +3,7 @@
 ## Of the Effect Upon the Production of Wealth
 
 The elder Mirabeau, we are told, ranked the proposition of Quesnay, to
-substitute one single tax on rent (the impôt unique) for all other taxes, as a
+substitute one single tax on rent (the *impôt unique*) for all other taxes, as a
 discovery equal in utility to the invention of writing or the substitution of
 the use of money for barter.
 

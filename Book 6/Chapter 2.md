@@ -22,7 +22,7 @@ the cause of the evil—in nothing else is there the slightest hope.
 This, then, is the remedy for the unjust and unequal distribution of wealth
 apparent in modern civilization, and for all the evils which flow from it:
 
-We must make land common property.
+*We must make land common property.*
 
 We have reached this conclusion by an examination in which every step has been
 proved and secured. In the chain of reasoning no link is wanting and no link is

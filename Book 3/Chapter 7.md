@@ -33,19 +33,48 @@ apprehended them are in striking contrast with the want of harmony which
 characterizes these laws as presented by the current political economy. Let us
 state them side by side:
 
-<table> <thead> <tr> <th>The Current Statement</th> <th>The True Statement</th>
-</tr> </thead> <tbody> <tr> <td>RENT depends on the margin of cultivation,
-rising as it falls and falling as it rises.</td> <td>RENT depends on the margin
-of cultivation, rising as it falls, and falling as it rises.</td> </tr> <tr>
-<td>WAGES depend upon the ratio between the number of laborers and the amount of
-capital devoted to their employment.</td> <td>WAGES depend on the margin of
-cultivation, falling as it falls and rising as it rises.</td> </tr> <tr>
-<td>INTEREST depends upon the equation between the supply of and demand for
-capital; or, as is stated of profits, upon wages (or the cost of labor), rising
-as wages fall, and falling as wages rise.</td> <td>INTEREST (its ratio with
-wages being fixed by the net power of increase which attaches to capital)
-depends on the margin of cultivation, falling as it falls and rising as it
-rises.</td> </tr> </tbody> </table>
+<table>
+  <thead>
+    <tr>
+      <th>The Current Statement</th>
+      <th>The True Statement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        RENT depends on the margin of cultivation, rising as it falls and
+        falling as it rises.
+      </td>
+      <td>
+        RENT depends on the margin of cultivation, rising as it falls, and
+        falling as it rises.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        WAGES depend upon the ratio between the number of laborers and the
+        amount of capital devoted to their employment.
+      </td>
+      <td>
+        WAGES depend on the margin of cultivation, falling as it falls and
+        rising as it rises.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        INTEREST depends upon the equation between the supply of and demand for
+        capital; or, as is stated of profits, upon wages (or the cost of labor),
+        rising as wages fall, and falling as wages rise.
+      </td>
+      <td>
+        INTEREST (its ratio with wages being fixed by the net power of increase
+        which attaches to capital) depends on the margin of cultivation, falling
+        as it falls and rising as it rises.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 In the current statement the laws of distribution have no common center, no
 mutual relation; they are not the correlating divisions of a whole, but measures

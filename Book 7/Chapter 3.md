@@ -225,7 +225,7 @@ without thought or hint of an adverse claimant; made it fruitful by your toil or
 erected upon it a costly building of greater value than the land itself, or a
 modest home in which you hope, surrounded by the fig trees you have planted and
 the vines you have dressed, to pass your declining days; yet if Quirk, Gammon
-&amp; Snap can mouse out a technical flaw in your parchments or hunt up some
+& Snap can mouse out a technical flaw in your parchments or hunt up some
 forgotten heir who never dreamed of his rights, not merely the land, but all
 your improvements, may be taken away from you. And not merely that. According to
 the common law, when you have surrendered the land and given up your

@@ -1,15 +1,18 @@
-Chapter I The Dynamics of the Problem Yet to Seek In identifying rent as the
-receiver of the increased production which material progress gives, but which
-labor fails to obtain; in seeing that the antagonism of interests is not between
-labor and capital, as is popularly believed, but is in reality between labor and
-capital on the one side and land ownership on the other, we have reached a
-conclusion that has most important practical bearings. But it is not worth while
-to dwell on them now, for we have not yet fully solved the problem which was at
-the outset proposed. To say that wages remain low because rent advances is like
-saying that a steamboat moves because its wheels turn around. The further
-question is, what causes rent to advance? What is the force or necessity that,
-as productive power increases, distributes a greater and greater proportion of
-the produce as rent?
+# Chapter I
+
+## The Dynamics of the Problem Yet to Seek
+
+In identifying rent as the receiver of the increased production which material
+progress gives, but which labor fails to obtain; in seeing that the antagonism
+of interests is not between labor and capital, as is popularly believed, but is
+in reality between labor and capital on the one side and land ownership on the
+other, we have reached a conclusion that has most important practical bearings.
+But it is not worth while to dwell on them now, for we have not yet fully solved
+the problem which was at the outset proposed. To say that wages remain low
+because rent advances is like saying that a steamboat moves because its wheels
+turn around. The further question is, what causes rent to advance? What is the
+force or necessity that, as productive power increases, distributes a greater
+and greater proportion of the produce as rent?
 
 The only cause pointed out by Ricardo as advancing rent is the increase of
 population, which by requiring larger supplies of food necessitates the
