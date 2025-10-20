@@ -1,31 +1,36 @@
 from: markdown
 to: pdf
 output-file: "Progress and Poverty.pdf"
-pdf-engine: xelatex          # or lualatex
+pdf-engine: xelatex
 input-files:
-  - NewPage.md
-  - IntroductoryEpigraph.md
-  - NewPage.md
-  - Introductory.md
-  - NewPage.md
-  - Book1.md
-  - NewPage.md
-  - Chapter1.md
-  - NewPage.md
-  - Chapter2.md
-  - NewPage.md
-  - Chapter3.md
-  - NewPage.md
+  - "Introductory/Introductory Epigraph.md"
+  - "Introductory/Introductory.md"
+  - "Book 1/Book 1.md"
+  - "Book 1/Chapter 1.md"
+  - "Book 1/Chapter 2.md"
+  - "Book 1/Chapter 3.md"
+  - "Book 2/Book 2.md"
+  - "Book 3/Book 3.md"
+  - "Book 4/Book 4.md"
+  - "Book 5/Book 5.md"
+  - "Book 6/Book 6.md"
+  - "Book 7/Book 7.md"
+  - "Book 8/Book 8.md"
+  - "Book 9/Book 9.md"
+  - "Book 10/Book 10.md"
 toc: true
 number-sections: false
 metadata:
   title: "Progress and Poverty"
   author: "Henry George"
 include-in-header:
-  - chapters.tex
-  - epigraph.tex
-  - headings.tex
-  - quotes.tex
+  - "Tex/chapters.tex"
+  - "Tex/epigraph.tex"
+  - "Tex/headings.tex"
+  - "Tex/minitoc.tex"
+  - "Tex/quotes.tex"
+include-before-body:
+  - "Tex/minitoc-init.tex"
 variables:
   documentclass: book
   geometry:
@@ -38,5 +43,6 @@ variables:
   colorlinks: true
   indent: true
   fontsize: 12
+  toc-depth: 2
 resource-path:
   - .

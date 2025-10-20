@@ -2,8 +2,6 @@
 
 ## WAGES NOT DRAWN FROM CAPITAL, BUT PRODUCED BY THE LABOR
 
-\markboth{WAGES AND CAPITAL}{WAGES NOT DRAWN FROM CAPITAL}
-
 The importance of this digression will, I think, become more and more apparent
 as we proceed in our inquiry, but its pertinency to the branch we are now
 engaged in may at once be seen.

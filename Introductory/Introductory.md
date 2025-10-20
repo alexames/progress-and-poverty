@@ -23,7 +23,7 @@ boxes or barrels, with hardly the touch of a human hand; the great workshops
 where boots and shoes are turned out by the case with less labor than the
 old-fashioned cobbler could have put on a sole; the factories where, under the
 eye of a girl, cotton becomes cloth faster than hundreds of stalwart weavers
-could have turned it out with their hand looms; could he have seen steam hammers
+could have turned it out with their handlooms; could he have seen steam hammers
 shaping mammoth shafts and mighty anchors, and delicate machinery making tiny
 watches; the diamond drill cutting through the heart of the rocks, and coal oil
 sparing the whale; could he have realized the enormous saving of labor resulting
@@ -49,7 +49,7 @@ And out of these bounteous material conditions he would have seen arising, as
 necessary sequences, moral conditions realizing the golden age of which mankind
 have always dreamed. Youth no longer stunted and starved; age no longer harried
 by avarice; the child at play with the tiger; the man with the muck-rake
-drinking in the glory of the stars. Foul things fled, fierce things tame;
+drinking in the glory of the stars! Foul things fled, fierce things tame;
 discord turned to harmony! For how could there be greed where all had enough?
 How could the vice, the crime, the ignorance, the brutality, that spring from
 poverty and the fear of poverty, exist where poverty had vanished? Who should
@@ -60,7 +60,7 @@ the improvements which give this wonderful century its preeminence. They have
 sunk so deeply into the popular mind as radically to change the currents of
 thought, to recast creeds and displace the most fundamental conceptions. The
 haunting visions of higher possibilities have not merely gathered splendor and
-vividness, but their direction has changed —instead of seeing behind the faint
+vividness, but their direction has changed—instead of seeing behind the faint
 tinges of an expiring sunset, all the glory of the daybreak has decked the skies
 before.
 
@@ -95,7 +95,7 @@ progress or something closely connected with material progress, becomes more
 than an inference when it is noted that the phenomena we class together and
 speak of as industrial depression are but intensifications of phenomena which
 always accompany material progress, and which show themselves more clearly and
-strongly as material progress goes on.  Where the conditions to which material
+strongly as material progress goes on. Where the conditions to which material
 progress everywhere tends are most fully realized—that is to say, where
 population is densest, wealth greatest, and the machinery of production and
 exchange most highly developed—we find the deepest poverty, the sharpest
@@ -106,14 +106,14 @@ is yet in its earlier stages—that laborers emigrate in search of higher wages,
 and capital flows in search of higher interest. It is in the older
 countries—that is to say, the countries where material progress has reached
 later stages—that widespread destitution is found in the midst of the greatest
-abundance.  Go into one of the new communities where Anglo-Saxon vigor is just
+abundance. Go into one of the new communities where Anglo-Saxon vigor is just
 beginning the race of progress; where the machinery of production and exchange
 is yet rude and inefficient; where the increment of wealth is not yet great
 enough to enable any class to live in ease and luxury; where the best house is
 but a cabin of logs or a cloth and paper shanty, and the richest man is forced
 to daily work—and though you will find an absence of wealth and all its
 concomitants, you will find no beggars. There is no luxury, but there is no
-destitution.  No one makes an easy living, nor a very good living; but everyone
+destitution. No one makes an easy living, nor a very good living; but everyone
 can make a living, and no one able and willing to work is oppressed by the fear
 of want.
 
@@ -122,7 +122,7 @@ communities are striving for, and advances in the scale of material
 progress—just as closer settlement and a more intimate connection with the rest
 of the world, and greater utilization of labor-saving machinery, make possible
 greater economies in production and exchange, and wealth in consequence
-increases, not merely in the aggregate, but in proportion to population —so does
+increases, not merely in the aggregate, but in proportion to population—so does
 poverty take a darker aspect. Some get an infinitely better and easier living,
 but others find it hard to get a living at all. The "tramp" comes with the
 locomotive, and almshouses and prisons are as surely the marks of "material
@@ -186,7 +186,7 @@ clearly be seen that material progress does not merely fail to relieve
 poverty—it actually produces it. In the United States it is clear that squalor
 and misery, and the vices and crimes that spring from them, everywhere increase
 as the village grows to the city, and the march of development brings the
-advantages of the improved methods of production and exchange.  It is in the
+advantages of the improved methods of production and exchange. It is in the
 older and richer sections of the Union that pauperism and distress among the
 working classes are becoming most painfully apparent. If there is less deep
 poverty in San Francisco than in New York, is it not because San Francisco is
@@ -217,8 +217,8 @@ merely a divergence between vulgar notions and scientific theories, but also
 show that the concurrence which should exist between those who avow the same
 general theories breaks up upon practical questions into an anarchy of opinion.
 Upon high economic authority we have been told that the prevailing depression is
-due to over-consumption; upon equally high authority, that it is due to
-over-production; while the wastes of war, the extension of railroads, the
+due to overconsumption; upon equally high authority, that it is due to
+overproduction; while the wastes of war, the extension of railroads, the
 attempts of workmen to keep up wages, the demonetization of silver, the issues
 of paper money, the increase of labor-saving machinery, the opening of shorter
 avenues to trade, etc., are separately pointed out as the cause, by writers of
@@ -247,7 +247,7 @@ base the reasoning and actions of everyday life, and which may be reduced to the
 metaphysical expression of the physical law that motion seeks the line of least
 resistance—viz., that men seek to gratify their desires with the least exertion.
 Proceeding from a basis thus assured, its processes, which consist simply in
-identification and separation, have the same certainty.  In this sense it is as
+identification and separation, have the same certainty. In this sense it is as
 exact a science as geometry, which, from similar truths relative to space,
 obtains its conclusions by similar means, and its conclusions when valid should
 be as self-apparent. And although in the domain of political economy we cannot
@@ -291,4 +291,3 @@ the very heart of our civilization to-day women faint and little children moan.
 But what that law may prove to be is not our affair. If the conclusions that we
 reach run counter to our prejudices, let us not flinch; if they challenge
 institutions that have long been deemed wise and natural, let us not turn back.
-

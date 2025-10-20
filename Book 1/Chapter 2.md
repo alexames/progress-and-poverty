@@ -2,8 +2,6 @@
 
 ## THE MEANING OF THE TERMS
 
-\markboth{WAGES AND CAPITAL}{THE MEANING OF THE TERMS}
-
 Before proceeding further in our inquiry, let us make sure of the meaning of our
 terms, for indistinctness in their use must inevitably produce ambiguity and
 indeterminateness in reasoning. Not only is it requisite in economic reasoning
@@ -505,4 +503,3 @@ obvious truths. Wealth being an abstract term, the idea of wealth, it must be
 remembered, involves the idea of exchange ability. The possession of wealth to a
 certain amount is potentially the possession of any or all species of wealth to
 that equivalent in exchange. And, consequently, so of capital.
-

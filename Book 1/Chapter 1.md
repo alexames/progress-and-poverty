@@ -2,8 +2,6 @@
 
 ## THE CURRENT DOCTRINE OF WAGES—ITS INSUFFICIENCY
 
-\markboth{WAGES AND CAPITAL}{THE CURRENT DOCTRINE}
-
 Reducing to its most compact form the problem we have set out to investigate,
 let us examine, step by step, the explanation which political economy, as now
 accepted by the best authority, gives of it.
@@ -374,4 +372,3 @@ deductive to the inductive form. Let us now see, if, beginning with facts and
 tracing their relations, we arrive at the same conclusions as are thus obvious
 when, beginning with first principles, we trace their exemplification in complex
 facts.
-
