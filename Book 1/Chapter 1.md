@@ -7,8 +7,8 @@ let us examine, step by step, the explanation which political economy, as now
 accepted by the best authority, gives of it.
 
 The cause which produces poverty in the midst of advancing wealth is evidently
-the cause which exhibits itself in the tendency, everywhere recognized, of
-wages to a minimum. Let us, therefore, put our inquiry into this compact form:
+the cause which exhibits itself in the tendency, everywhere recognized, of wages
+to a minimum. Let us, therefore, put our inquiry into this compact form:
 
 *Why, in spite of increase in productive power, do wages tend to a minimum which
 will give but a bare living?*
@@ -31,19 +31,18 @@ at leading the masses to reason correctly upon practical affairs, while it seems
 to harmonize with the new philosophy, which, having in a few years all but
 conquered the scientific world, is now rapidly permeating the general mind.
 
-[^b1c1n1]:
-    This seems to me true of Mr. Thornton's objections, for while he denies the
-    existence of a predetermined wage fund, consisting of a portion of capital
-    set apart for the purchase of labor, he yet holds (which is the essential
-    thing) that wages are drawn from capital, and that increase or decrease of
-    capital is increase or decrease of the fund available for the payment of
-    wages. The most vital attack upon the wage fund doctrine of which I know is
-    that of Professor Francis A. Walker (The Wages Question: New York, 1876),
-    yet he admits that wages are in large part advanced from capital—which, so
-    far as it goes, is all that the stanchest supporter of the wage fund theory
-    could claim—while he fully accepts the Malthusian theory. Thus his practical
-    conclusions in nowise differ from those reached by expounders of the current
-    theory.
+[^b1c1n1]: This seems to me true of Mr. Thornton's objections, for while he
+    denies the existence of a predetermined wage fund, consisting of a portion
+    of capital set apart for the purchase of labor, he yet holds (which is the
+    essential thing) that wages are drawn from capital, and that increase or
+    decrease of capital is increase or decrease of the fund available for the
+    payment of wages. The most vital attack upon the wage fund doctrine of which
+    I know is that of Professor Francis A. Walker (The Wages Question: New York,
+    1876), yet he admits that wages are in large part advanced from
+    capital—which, so far as it goes, is all that the stanchest supporter of the
+    wage fund theory could claim—while he fully accepts the Malthusian theory.
+    Thus his practical conclusions in nowise differ from those reached by
+    expounders of the current theory.
 
 Thus entrenched in the upper regions of thought, it is in cruder form even more
 firmly rooted in what may be styled the lower. What gives to the fallacies of
@@ -123,9 +122,8 @@ distributed in wages.  In this way it is explained that the wage fund may be
 comparatively large where capital is comparatively scarce, and high wages and
 high interest accompany each other.
 
-[^b1c1n2]:
-    Some Leading Principles of Political Economy Newly Expounded, Chapter 1,
-    Part 2.
+[^b1c1n2]: Some Leading Principles of Political Economy Newly Expounded, Chapter
+    1, Part 2.
 
 In what follows I think I shall be able to show that this explanation is based
 upon a total misapprehension of the relations of labor to capital—a fundamental
@@ -144,10 +142,9 @@ consistent with the current theory, do we find high interest coinciding with
 high wages, and low interest with low wages—capital seemingly scarce when labor
 is scarce, and abundant when labor is abundant.
 
-[^b1c1n3]:
-    Times of commercial panic are marked by high rates of discount, but this is
-    evidently not a high rate of interest, properly so called, but a high rate
-    of insurance against risk.
+[^b1c1n3]: Times of commercial panic are marked by high rates of discount, but
+    this is evidently not a high rate of interest, properly so called, but a
+    high rate of insurance against risk.
 
 All these well known facts, which coincide with each other, point to a relation
 between wages and interest, but it is to a relation of conjunction, not of
@@ -169,18 +166,18 @@ number and the amount of capital existing for their recompense.[^b1c1n4] This
 reasoning is valid, but the conclusion, as we have seen, does not correspond
 with the facts. The fault, therefore, must be in the premises. Let us see.
 
-[^b1c1n4]:
-    For instance McCulloch (Note VI to Wealth of Nations) says: "That portion of
-    the capital or wealth of a country which the employers of labor intend to or
-    are willing to pay out in the purchase of labor, may be much larger at one
-    time than another.  But whatever may be its absolute magnitude, it obviously
-    forms the only source from which any portion of the wages of labor can be
-    derived. No other fund is in existence from which the laborer, as such, can
-    draw a single shilling.  And hence it follows that the average rate of
-    wages, or the share of the national capital appropriated to the employment
-    of labor falling, at an average, to each laborer, must entirely depend on
-    its amount as compared with the number of those amongst whom it has to be
-    divided." Similar citations might be made from all the standard economists.
+[^b1c1n4]: For instance McCulloch (Note VI to Wealth of Nations) says: "That
+    portion of the capital or wealth of a country which the employers of labor
+    intend to or are willing to pay out in the purchase of labor, may be much
+    larger at one time than another.  But whatever may be its absolute
+    magnitude, it obviously forms the only source from which any portion of the
+    wages of labor can be derived. No other fund is in existence from which the
+    laborer, as such, can draw a single shilling.  And hence it follows that the
+    average rate of wages, or the share of the national capital appropriated to
+    the employment of labor falling, at an average, to each laborer, must
+    entirely depend on its amount as compared with the number of those amongst
+    whom it has to be divided." Similar citations might be made from all the
+    standard economists.
 
 I am aware that the theorem that wages are drawn from capital is one of the most
 fundamental and apparently best settled of current political economy, and that
@@ -197,11 +194,10 @@ The proposition I shall endeavor to prove, is: That wages, instead of being
 drawn from capital, are in reality drawn from the product of the labor for which
 they are paid.[^b1c1n5]
 
-[^b1c1n5]:
-    We are speaking of labor expended in production, to which it is best for the
-    sake of simplicity to confine the inquiry. Any question which may arise in
-    the reader's mind as to wages for unproductive services had best therefore
-    be deferred.
+[^b1c1n5]: We are speaking of labor expended in production, to which it is best
+    for the sake of simplicity to confine the inquiry. Any question which may
+    arise in the reader's mind as to wages for unproductive services had best
+    therefore be deferred.
 
 Now, inasmuch as the current theory that wages are drawn from capital also holds
 that capital is reimbursed from production, this at first glance may seem a

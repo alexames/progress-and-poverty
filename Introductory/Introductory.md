@@ -168,13 +168,12 @@ bottom. It is as though an immense wedge were being forced, not underneath
 society, but through society. Those who are above the point of separation are
 elevated, but those who are below are crushed down.
 
-[^in1]:
-    It is true that the poorest may now in certain ways enjoy what the richest a
-    century ago could not have commanded, but this does not show improvement of
-    condition so long as the ability to obtain the necessaries of life is not
-    increased. The beggar in a great city may enjoy many things from which the
-    backwoods farmer is debarred, but that does not prove the condition of the
-    city beggar better than that of the independent farmer.
+[^in1]: It is true that the poorest may now in certain ways enjoy what the
+    richest a century ago could not have commanded, but this does not show
+    improvement of condition so long as the ability to obtain the necessaries of
+    life is not increased. The beggar in a great city may enjoy many things from
+    which the backwoods farmer is debarred, but that does not prove the
+    condition of the city beggar better than that of the independent farmer.
 
 This depressing effect is not generally realized, for it is not apparent where
 there has long existed a class just able to live. Where the lowest class barely
