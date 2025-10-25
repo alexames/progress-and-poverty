@@ -1,4 +1,3 @@
-Book X
+\part{Book X: The Law of Human Progress}
 
-# The Law of Human Progress
-
+\parttoc

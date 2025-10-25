@@ -1,3 +1,3 @@
-Book IX
+\part{Book IX: Effects of the Remedy}
 
-# Effects of the Remedy
+\parttoc

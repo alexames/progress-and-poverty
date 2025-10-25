@@ -1,4 +1,3 @@
-Book VIII
+\part{Book VIII: Application of the Remedy}
 
-# Application of the Remedy
-
+\parttoc

@@ -3,10 +3,11 @@ to: pdf
 output-file: "Progress and Poverty.pdf"
 pdf-engine: xelatex
 input-files:
-  - "Introductory/Introductory Epigraph.md"
+  - "Introductory/Epigraph.md"
   - "Introductory/Introductory.md"
 
   - "Book 1/Book 1.md"
+  - "Book 1/Epigraph.md"
   - "Book 1/Chapter 1.md"
   - "Book 1/Chapter 2.md"
   - "Book 1/Chapter 3.md"
@@ -14,12 +15,14 @@ input-files:
   - "Book 1/Chapter 5.md"
 
   - "Book 2/Book 2.md"
+  - "Book 2/Epigraph.md"
   - "Book 2/Chapter 1.md"
   - "Book 2/Chapter 2.md"
   - "Book 2/Chapter 3.md"
   - "Book 2/Chapter 4.md"
 
   - "Book 3/Book 3.md"
+  - "Book 3/Epigraph.md"
   - "Book 3/Chapter 1.md"
   - "Book 3/Chapter 2.md"
   - "Book 3/Chapter 3.md"
@@ -30,20 +33,24 @@ input-files:
   - "Book 3/Chapter 8.md"
 
   - "Book 4/Book 4.md"
+  - "Book 4/Epigraph.md"
   - "Book 4/Chapter 1.md"
   - "Book 4/Chapter 2.md"
   - "Book 4/Chapter 3.md"
   - "Book 4/Chapter 4.md"
 
   - "Book 5/Book 5.md"
+  - "Book 5/Epigraph.md"
   - "Book 5/Chapter 1.md"
   - "Book 5/Chapter 2.md"
 
   - "Book 6/Book 6.md"
+  - "Book 6/Epigraph.md"
   - "Book 6/Chapter 1.md"
   - "Book 6/Chapter 2.md"
 
   - "Book 7/Book 7.md"
+  - "Book 7/Epigraph.md"
   - "Book 7/Chapter 1.md"
   - "Book 7/Chapter 2.md"
   - "Book 7/Chapter 3.md"
@@ -51,24 +58,28 @@ input-files:
   - "Book 7/Chapter 5.md"
 
   - "Book 8/Book 8.md"
+  - "Book 8/Epigraph.md"
   - "Book 8/Chapter 1.md"
   - "Book 8/Chapter 2.md"
   - "Book 8/Chapter 3.md"
   - "Book 8/Chapter 4.md"
 
   - "Book 9/Book 9.md"
+  - "Book 9/Epigraph.md"
   - "Book 9/Chapter 1.md"
   - "Book 9/Chapter 2.md"
   - "Book 9/Chapter 3.md"
   - "Book 9/Chapter 4.md"
 
   - "Book 10/Book 10.md"
+  - "Book 10/Epigraph.md"
   - "Book 10/Chapter 1.md"
   - "Book 10/Chapter 2.md"
   - "Book 10/Chapter 3.md"
   - "Book 10/Chapter 4.md"
   - "Book 10/Chapter 5.md"
 
+  - "Conclusion/Epigraph.md"
   - "Conclusion/Conclusion.md"
 
 toc: true

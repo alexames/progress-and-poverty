@@ -1,4 +1,3 @@
-Book III
+\part{Book III: The Laws of Distribution}
 
-# The Laws of Distribution
-
+\parttoc

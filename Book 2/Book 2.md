@@ -1,4 +1,3 @@
-Book II
+\part{Book II: Population and Subsistence}
 
-# Population and Subsistence
-
+\parttoc

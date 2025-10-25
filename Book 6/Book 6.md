@@ -1,4 +1,3 @@
-Book VI
+\part{Book VI: The Remedy}
 
-# The Remedy
-
+\parttoc

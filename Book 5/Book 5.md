@@ -1,4 +1,3 @@
-Book V
+\part{Book V: The Problem Solved}
 
-# The Problem Solved
-
+\parttoc

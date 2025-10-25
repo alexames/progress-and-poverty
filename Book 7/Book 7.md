@@ -1,4 +1,3 @@
-Book VII
+\part{Book VII: Justice of the Remedy}
 
-# Justice of the Remedy
-
+\parttoc

@@ -1,1 +1,0 @@
-He that is to follow philosophy must be a freeman in mind. —Ptolemy.

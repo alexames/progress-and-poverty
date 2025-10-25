@@ -1,1 +1,3 @@
-\part{Book I: Wages and Capital} \parttoc
+\part{Book I: Wages and Capital}
+
+\parttoc
