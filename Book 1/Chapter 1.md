@@ -1,6 +1,6 @@
-# CHAPTER I
+# Chapter I
 
-## THE CURRENT DOCTRINE OF WAGES—ITS INSUFFICIENCY
+## The Current Doctrine of Wages—Its Insufficiency
 
 Reducing to its most compact form the problem we have set out to investigate,
 let us examine, step by step, the explanation which political economy, as now

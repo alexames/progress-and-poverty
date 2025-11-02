@@ -1,8 +1,9 @@
-# CHAPTER V
+# Chapter V
 
-## The Real Functions of Capital It may now be asked: If capital is not required
-for the payment of wages or the support of labor during production, what, then,
-are its functions?
+## The Real Functions of Capital
+
+It may now be asked: If capital is not required for the payment of wages or the
+support of labor during production, what, then, are its functions?
 
 The previous examination has made the answer clear. Capital, as we have seen,
 consists of wealth used for the procurement of more wealth, as distinguished

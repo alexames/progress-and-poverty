@@ -1,6 +1,6 @@
-# CHAPTER II
+# Chapter II
 
-## THE MEANING OF THE TERMS
+## The Meaning of the Terms
 
 Before proceeding further in our inquiry, let us make sure of the meaning of our
 terms, for indistinctness in their use must inevitably produce ambiguity and

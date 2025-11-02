@@ -1,7 +1,8 @@
-# CHAPTER IV
+# Chapter IV
 
-## The Maintenance of Laborers Not Drawn from Capital But a stumbling block may
-yet remain, or may recur, in the mind of the reader.
+## The Maintenance of Laborers Not Drawn from Capital
+
+But a stumbling block may yet remain, or may recur, in the mind of the reader.
 
 As the plowman cannot eat the furrow, nor a partially completed steam engine aid
 in any way in producing the clothes the machinist wears, have I not, in the
