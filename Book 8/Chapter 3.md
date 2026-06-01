@@ -8,13 +8,13 @@ closest conform to the following conditions:
 1. That it bear as lightly as possible upon production—so as least to check the
    increase of the general fund from which taxes must be paid and the community
    maintained.
-   2. That it be easily and cheaply collected, and fall as directly as may be
-   upon the ultimate payers—so as to take from the people as little as possible
-   in addition to what it yields the government.
-   3. That it be certain—so as to give the least opportunity for tyranny or
+2. That it be easily and cheaply collected, and fall as directly as may be upon
+   the ultimate payers—so as to take from the people as little as possible in
+   addition to what it yields the government.
+3. That it be certain—so as to give the least opportunity for tyranny or
    corruption on the part of officials, and the least temptation to law-breaking
    and evasion on the part of the taxpayers.
-   4. That it bear equally—so as to give no citizen an advantage or put any at a
+4. That it bear equally—so as to give no citizen an advantage or put any at a
    disadvantage, as compared with others.  Let us consider what form of taxation
    best accords with these conditions. Whatever it be, that evidently will be
    the best mode in which the public revenues can be raised.
